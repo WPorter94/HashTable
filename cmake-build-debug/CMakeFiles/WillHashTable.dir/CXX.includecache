@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Bish PC/CLionProjects/WillHashTable/Hash_Table_Chain.h
+stdexcept
+-
+cstddef
+-
+utility
+-
+vector
+-
+list
+-
+string
+-
+sstream
+-
+ostream
+-
+hash.h
+C:/Users/Bish PC/CLionProjects/WillHashTable/hash.h
+iterator.h
+C:/Users/Bish PC/CLionProjects/WillHashTable/iterator.h
+const_iterator.h
+C:/Users/Bish PC/CLionProjects/WillHashTable/const_iterator.h
+
+C:/Users/Bish PC/CLionProjects/WillHashTable/Person.h
+string
+-
+iostream
+-
+hash.h
+C:/Users/Bish PC/CLionProjects/WillHashTable/hash.h
+
+C:/Users/Bish PC/CLionProjects/WillHashTable/Test_Person.cpp
+iostream
+-
+fstream
+-
+Hash_Table_Chain.h
+C:/Users/Bish PC/CLionProjects/WillHashTable/Hash_Table_Chain.h
+Person.h
+C:/Users/Bish PC/CLionProjects/WillHashTable/Person.h
+iterator.h
+C:/Users/Bish PC/CLionProjects/WillHashTable/iterator.h
+
+C:/Users/Bish PC/CLionProjects/WillHashTable/const_iterator.h
+
+C:/Users/Bish PC/CLionProjects/WillHashTable/hash.h
+string
+-
+
+C:/Users/Bish PC/CLionProjects/WillHashTable/iterator.h
+
